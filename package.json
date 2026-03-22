@@ -1,6 +1,7 @@
 {
   "name": "aboutme",
   "version": "0.0.0",
+  "homepage": "https://scitia.github.io/",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
