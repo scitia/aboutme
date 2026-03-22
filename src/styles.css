@@ -1,1 +1,22 @@
-/* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css2?family=Exo%202:wght@100;200;300;400;500;600;700;800;900&display=swap');
+@import url('../node_modules/bootstrap/dist/css/bootstrap.css');
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Exo 2', sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: 0.00em;
+    line-height: 1.4;
+    word-spacing: 0;
+    text-transform: none;
+    text-decoration: none;
+    text-align: center;
+    color: black;
+}
+
+p {
+    font-size: small;
+}
