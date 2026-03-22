@@ -1,5 +1,4 @@
 import {Component} from '@angular/core';
-import {homePath} from "../articles.config";
 import {ArticleContentComponent} from "../article-content/article-content.component";
 
 @Component({
@@ -14,6 +13,4 @@ export class HomeComponent {
 
     constructor() {
     }
-
-    protected homePath: string = homePath();
 }
