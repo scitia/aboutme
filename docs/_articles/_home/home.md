@@ -1,16 +1,17 @@
-# Przykładowy artykuł
+## pearl of wisdom
 
-## Lead
-Krótki wstęp do artykułu. Może być 2–3 zdania, które zachęcają do czytania i streszczają główną myśl.
-
-## Wprowadzenie
-Tutaj zaczyna się właściwa treść artykułu. Możesz pisać swobodnie, używać nagłówków, list, cytatów i obrazków.
-
-Przykład akapitu:
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer vel lorem vel augue dictum luctus.
-
-Możesz też dodać kod:
-
-```js
-console.log("Hello world");
+```typescript
+console.warn("Goodbye world")
+console.clear()
+/** @deprecated */
+console.log("Come to where the flavour is")
+/** @deprecated */
+console.log("Come to where the future is")
+console.log("Come to where the ... is")
+// But where actually?
+// So I called up the captain
+// "Please tell me what to do"
+// He said, "We haven't had to think here since November 2022"
+const decision = undefined
+window.navigation.navigate(decision)
 ```

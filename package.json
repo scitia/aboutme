@@ -20,6 +20,7 @@
     "@primeng/themes": "^21.0.4",
     "@primeuix/themes": "^2.0.3",
     "bootstrap": "^5.3.8",
+    "bootstrap-icons": "^1.13.1",
     "fs-extra": "^11.3.4",
     "marked": "^17.0.5",
     "ngx-bootstrap": "^21.0.1",
